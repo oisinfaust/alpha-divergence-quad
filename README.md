@@ -8,7 +8,7 @@ See the [example.ipynb](example.ipynb) notebook for example usage.
 ---
 
 [1] O. Faust, H. Fawzi, [*Rational approximations of operator monotone and 
-operator convex functions*](), preprint (2023)
+operator convex functions*](https://arxiv.org/abs/2305.12405), preprint (2023)
 
 [2] S. Filip, Y. Nakatsukasa, L. N. Trefethen, B. Beckermann, [*Rational minimax
 approximation via adaptive barycentric representations*](
